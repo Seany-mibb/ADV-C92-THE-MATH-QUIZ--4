@@ -2,29 +2,3 @@ body{
     background: url("g.gif");
     background-size: cover;
 }
-
-#player1_score
-{
-    font-size: 15;
-    color:white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#player2_score
-{
-    font-size: 15;
-    color:white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#player1_name{
-    font-size: 15;
-    color:white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#player2_name{
-    font-size: 15;
-    color:white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
